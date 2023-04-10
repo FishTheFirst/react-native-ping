@@ -1,5 +1,5 @@
 {
-  "name": "react-native-ping",
+  "name": "new-react-native-ping",
   "version": "1.3.0",
   "description": "Highly accurate ICMP Ping controller for React Native",
   "main": "index.js",
